@@ -1,0 +1,40 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "description": "Faculty - monthly reports are ready to download",
+      "broadcast": "Course Approval - Biology",
+      "broadcastedto": "manish.k@techademy.net",
+      "notificationName": "Course Approval - Biology",
+      "date": "28 February 2023",
+      "time": "3:47:15 PM"
+    },
+    {
+      "id": 2,
+      "description": "",
+      "broadcast": "Login issue for 30 student",
+      "broadcastedto": "",
+      "notificationName": "Login issue for 30 student",
+      "date": "28 February 2023",
+      "time": "3:47:50 PM"
+    },
+    {
+      "id": 3,
+      "description": "",
+      "broadcast": "10 December 2013",
+      "broadcastedto": "",
+      "notificationName": "10 December 2013",
+      "date": "28 February 2023",
+      "time": "3:48:06 PM"
+    },
+    {
+      "id": 4,
+      "description": "",
+      "broadcast": "Login issue for 30 student",
+      "broadcastedto": "manish.k@techademy.net, manish.k@techademy.net",
+      "notificationName": "Login issue for 30 student",
+      "date": "28 February 2023",
+      "time": "3:48:26 PM"
+    }
+  ]
+}
